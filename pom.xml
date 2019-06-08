@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.126.108.100:8081/repository/Amazon-Release/</url>
+	      <url>http://13.233.193.83:8081/repository/paytm-Release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.126.108.100:8081/repository/Amazon-Snapshot/</url>
+	      <url>http://13.233.193.83:8081/repository/paytm-snapshop/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
